@@ -5,3 +5,4 @@ This class neither has teachers nor has students.
 Hello this is JUET
 Hello this is not JIET
 My God!
+Neither me nor him!
