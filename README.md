@@ -7,4 +7,5 @@ This class or facutly not teachers nor has students.
 Hello this is JUET
 Hello this is not JIET.
 Hello on this occasion.
+Some or opportunities and some are failures
 
